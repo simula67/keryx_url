@@ -1,0 +1,7 @@
+Entirely pointless project again :(
+This was done to "extract" urls from Keryx.
+Unfortunately a simple
+apt-get install <package_name> --print-uris 
+with some perl regex was all that was needed.
+
+Atleast I quickly learnt python!!
